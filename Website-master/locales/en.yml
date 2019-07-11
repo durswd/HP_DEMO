@@ -107,7 +107,7 @@
   documentation:
     help: "Help"
     description: "Help files are also bundled with each package"
-    to_help: "[View]"
+    to_help: "To Help"
     help_effekseer: "used by designers to create the effects."
     help_runtime: "used for showing the effects in your DirectX or OpenGL applications."
     help_unity: "used for showing the effects in your Unity applications."
@@ -117,6 +117,7 @@
     help_ue4: "used for showing the effects in your UnrealEngine4 applications."
 
     tutorial: "Tutorial"
+    to_tutorial: "To Tutorial"
     tutorial_desc: "Here are tutorials"
 
     quicktutorial: "Quick Tutorial"

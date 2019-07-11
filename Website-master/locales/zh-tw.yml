@@ -124,6 +124,7 @@
     help_ue4: "UnrealEngine4內效果播放時的說明書"
 
     tutorial: "教程"
+    to_tutorial: "前往教程"
     tutorial_desc: "Effekseer編輯工具的教程。只介紹部份功能、詳細請查看參考文獻。"
 
     quicktutorial: "簡易教程"
